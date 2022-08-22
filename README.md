@@ -1,4 +1,4 @@
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/geejoshua/alxproject4/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/geejoshua/alxproject4/tree/main)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/geejoshua/alxproject4/tree/main.svg?style=shield)](https://dl.circleci.com/status-badge/redirect/gh/geejoshua/alxproject4/tree/main)
 
 ## Project Overview
 
