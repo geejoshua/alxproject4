@@ -1,0 +1,10 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+sh.exe
+ 
+make.exe: Entering directory `c:/Users/grace.akinsola/Documents/New folder/DevOps_Microservices/project-ml-microservice-kubernetes'
+# Create python virtualenv & source it
+# source ~/.devops/bin/activate
+python3 -m venv ~/.devops
+ 
+make.exe: Leaving directory `c:/Users/grace.akinsola/Documents/New folder/DevOps_Microservices/project-ml-microservice-kubernetes'
+ 
