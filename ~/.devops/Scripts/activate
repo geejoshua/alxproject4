@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\grace.akinsola\Documents\New folder\DevOps_Microservices\project-ml-microservice-kubernetes\~\.devops"
+VIRTUAL_ENV="C:\Users\grace.akinsola\Documents\alxproject4\~\.devops"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

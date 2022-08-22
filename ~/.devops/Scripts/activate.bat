@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\grace.akinsola\Documents\New folder\DevOps_Microservices\project-ml-microservice-kubernetes\~\.devops
+set VIRTUAL_ENV=C:\Users\grace.akinsola\Documents\alxproject4\~\.devops
 
 if not defined PROMPT set PROMPT=$P$G
 
