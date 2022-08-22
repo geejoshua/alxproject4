@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/geejoshua/alxproject4/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/geejoshua/alxproject4/tree/main)
 
 ## Project Overview
 
@@ -48,3 +48,9 @@ source .devops/bin/activate
 * Setup and Configure Kubernetes locally
 * Create Flask app in Container
 * Run via kubectl
+
+### Files in the repository
+requirements.txt contains app dependencies
+docker_out.txt contains logs when we try to get the prediction values using a docker container locally
+kubernetes_out.txt contains the same logs but now, we are managing the pods using kubernetes
+run_docker.sh, run_kubernetes.sh and upload_docker.sh were completed during the project
