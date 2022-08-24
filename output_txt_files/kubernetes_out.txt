@@ -29,3 +29,13 @@ Handling connection for 8000
 [20.35373177134412]
 
 127.0.0.1 - - [22/Aug/2022 16:18:46] "POST /predict HTTP/1.1" 200 -
+
+#Output of running make_predictions.sh
+
+$ ./make_prediction.sh
+Port: 8000
+{
+  "prediction": [
+    20.35373177134412
+  ]
+}
